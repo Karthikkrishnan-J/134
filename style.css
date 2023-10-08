@@ -1,0 +1,10 @@
+canvas {
+    margin-top: 100px;
+    border-radius: 50px;
+    border-width: 5px;
+    border-color: darkblue;
+    border-right-style: dashed;
+    border-top-style: dashed;
+    border-left-style: groove;
+    border-bottom-style: groove;
+}
